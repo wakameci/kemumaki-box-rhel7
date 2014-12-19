@@ -1,9 +1,6 @@
-[submodule "vendor/buildbook-rhel6"]
-	path = vendor/buildbook-rhel6
-	url = https://github.com/hansode/buildbook-rhel7.git
+[submodule "vendor/buildbook-rhel7"]
+	path = vendor/buildbook-rhel7
+	url = https://github.com/wakameci/buildbook-rhel7.git
 [submodule "vendor/vmbuilder"]
 	path = vendor/vmbuilder
 	url = https://github.com/hansode/vmbuilder.git
-[submodule "vendor/buildbook-rhel7"]
-	path = vendor/buildbook-rhel7
-	url = https://github.com/hansode/buildbook-rhel7.git
