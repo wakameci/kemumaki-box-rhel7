@@ -121,7 +121,10 @@ EOS
 }
 
 function install_lxc_udev() {
-  render_lxc_udev | tee /lxc/private/${ctid}/etc/init/lxc-udev.conf
+  # upstart
+  if [[ -d /lxc/private/${ctid}/etc/init ]]; then
+    render_lxc_udev | tee /lxc/private/${ctid}/etc/init/lxc-udev.conf
+  fi
 }
 
 ## main
