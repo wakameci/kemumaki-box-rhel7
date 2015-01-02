@@ -2,3 +2,4 @@
 *.pid
 *.vmdk
 *.box
+rootfs/
