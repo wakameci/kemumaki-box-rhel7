@@ -24,6 +24,9 @@ lxc.network.hwaddr = 52:54:00:$(LANG=C LC_ALL=C date +%H:%M:%S)
 lxc.rootfs = /lxc/private/${ctid}
 lxc.rootfs.mount = /lxc/private/${ctid}
 
+lxc.start.auto = 1
+lxc.start.delay = 5
+
 # via https://lists.linuxcontainers.org/pipermail/lxc-users/2014-October/007907.html
 # [lxc-users] systemd's journald using 100% CPU on Debian Jessie container and Fedora 20 host
 lxc.kmsg = 0
