@@ -150,6 +150,7 @@ Build Environment
 + sudo
 + vim-minimal
 + screen
++ sysdig
 
 ### RSpec &amp; FPM for Wakame-vdc &amp; OpenVNet
 
@@ -160,6 +161,11 @@ Build Environment
 + chrpath
 + rpmdevtools
 + epel-release
+
+## HashiCorp tools
+
++ [serf](https://serfdom.io/)
++ [consul](https://consul.io/)
 
 Links
 -----
