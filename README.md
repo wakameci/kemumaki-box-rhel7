@@ -142,6 +142,7 @@ Build Environment
 + nc
 + wireshark
 + s3cmd
++ iperf3
 
 ### Debugging/Development tools
 
