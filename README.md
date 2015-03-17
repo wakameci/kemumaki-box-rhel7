@@ -55,7 +55,10 @@ Current Boxes
 
 KVM Guests:
 
++ kemumaki-7.0.1406-x86_64.kvm.box
 + minimal-7.0.1406-x86_64.kvm.box
++ lxckemumaki-7.0.1406-x86_64.kvm.box
++ kagechiyo-7.0.1406-x86_64.kvm.box
 
 OpenVZ Container(s):
 
