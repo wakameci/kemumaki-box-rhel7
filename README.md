@@ -56,9 +56,13 @@ Current Boxes
 KVM Guests:
 
 + [kemumaki-7.0.1406-x86_64.kvm.box](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kemumaki-7.0.1406-x86_64.kvm.box)
-+ [minimal-7.0.1406-x86_64.kvm.box](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/minimal-7.0.1406-x86_64.kvm.box)
+   + [`md5`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kemumaki-7.0.1406-x86_64.kvm.box.md5), [`rpm-qa`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kemumaki-7.0.1406-x86_64.kvm.box.rpm-qa)
 + [lxckemumaki-7.0.1406-x86_64.kvm.box](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/lxckemumaki-7.0.1406-x86_64.kvm.box)
+   + [`md5`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/lxckemumaki-7.0.1406-x86_64.kvm.box.md5), [`rpm-qa`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/lxckemumaki-7.0.1406-x86_64.kvm.box.rpm-qa)
++ [minimal-7.0.1406-x86_64.kvm.box](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/minimal-7.0.1406-x86_64.kvm.box)
+   + [`md5`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/minimal-7.0.1406-x86_64.kvm.box.md5), [`rpm-qa`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/minimal-7.0.1406-x86_64.kvm.box.rpm-qa)
 + [kagechiyo-7.0.1406-x86_64.kvm.box](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kagechiyo-7.0.1406-x86_64.kvm.box)
+   + [`md5`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kagechiyo-7.0.1406-x86_64.kvm.box.md5), [`rpm-qa`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kagechiyo-7.0.1406-x86_64.kvm.box.rpm-qa)
 
 OpenVZ Container(s):
 
@@ -66,7 +70,8 @@ OpenVZ Container(s):
 
 Linux Container(s):
 
-+ [vz.kemumaki.x86_64.tar.gz](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/vz.kemumaki.x86_64.tar.gz) (on lxckemumaki-7.0.1406-x86_64)
++ [vz.kemumaki.x86_64.tar.gz](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/vz.kemumaki.x86_64.tar.gz) (on lxckemumaki-6.6-x86_64)
+   + [`md5`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/vz.kemumaki.x86_64.tar.gz.md5), [`rpm-qa`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/vz.kemumaki.x86_64.rpm-qa)
 
 Build Environment
 -----------------
