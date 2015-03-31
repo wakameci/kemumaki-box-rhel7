@@ -38,6 +38,7 @@ General
 
 + [OS](vmbuilder.conf#L5-L6)
   + CentOS-7.0.1406 x86_64
+  + CentOS-7.1.1503 x86_64
 + Disk
   + [rootfs: 40 GB](vmbuilder.conf.d/disk.conf#L1)
   + [swap: 1 GB](vmbuilder.conf.d/disk.conf#L2)
@@ -56,9 +57,12 @@ Current Boxes
 KVM Guests:
 
 + [`kemumaki-7.0.1406-x86_64.kvm.box`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kemumaki-7.0.1406-x86_64.kvm.box) - [md5](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kemumaki-7.0.1406-x86_64.kvm.box.md5), [rpm-qa](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kemumaki-7.0.1406-x86_64.kvm.box.rpm-qa)
-+ [`lxckemumaki-7.0.1406-x86_64.kvm.box`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/lxckemumaki-7.0.1406-x86_64.kvm.box) - [md5](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/lxckemumaki-7.0.1406-x86_64.kvm.box.md5), [rpm-qa](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/lxckemumaki-7.0.1406-x86_64.kvm.box.rpm-qa)
++ [`kemumaki-7.1.1503-x86_64.kvm.box`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kemumaki-7.1.1503-x86_64.kvm.box) - [md5](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kemumaki-7.1.1503-x86_64.kvm.box.md5), [rpm-qa](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kemumaki-7.1.1503-x86_64.kvm.box.rpm-qa)
++ [`lxckemumaki-7.1.1503-x86_64.kvm.box`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/lxckemumaki-7.1.1503-x86_64.kvm.box) - [md5](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/lxckemumaki-7.1.1503-x86_64.kvm.box.md5), [rpm-qa](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/lxckemumaki-7.1.1503-x86_64.kvm.box.rpm-qa)
 + [`minimal-7.0.1406-x86_64.kvm.box`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/minimal-7.0.1406-x86_64.kvm.box) - [md5](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/minimal-7.0.1406-x86_64.kvm.box.md5), [rpm-qa](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/minimal-7.0.1406-x86_64.kvm.box.rpm-qa)
++ [`minimal-7.1.1503-x86_64.kvm.box`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/minimal-7.1.1503-x86_64.kvm.box) - [md5](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/minimal-7.1.1503-x86_64.kvm.box.md5), [rpm-qa](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/minimal-7.1.1503-x86_64.kvm.box.rpm-qa)
 + [`kagechiyo-7.0.1406-x86_64.kvm.box`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kagechiyo-7.0.1406-x86_64.kvm.box) - [md5](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kagechiyo-7.0.1406-x86_64.kvm.box.md5), [rpm-qa](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kagechiyo-7.0.1406-x86_64.kvm.box.rpm-qa)
++ [`kagechiyo-7.1.1503-x86_64.kvm.box`](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kagechiyo-7.1.1503-x86_64.kvm.box) - [md5](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kagechiyo-7.1.1503-x86_64.kvm.box.md5), [rpm-qa](http://dlc.wakame.axsh.jp/wakameci/kemumaki-box-rhel7/current/kagechiyo-7.1.1503-x86_64.kvm.box.rpm-qa)
 
 OpenVZ Container(s):
 
